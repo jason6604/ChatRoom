@@ -1,0 +1,10 @@
+{
+    "wsSetting": {
+        "wsPort": 7171,
+        "wsHost": "127.0.0.1"
+    },
+    "apiSetting": {
+        "apiPort": 8081,
+        "apiHost": "127.0.0.1"
+    }
+}
